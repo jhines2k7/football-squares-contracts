@@ -1,1 +1,6 @@
 node_modules
+service-account.json
+.football-squares-contract
+.env
+cache
+artifacts
